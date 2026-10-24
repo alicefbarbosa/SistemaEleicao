@@ -1,0 +1,14 @@
+# Arquivos e pastas gerados pelo .NET
+bin/
+obj/
+
+# Configurações locais do Visual Studio Code
+.vscode/
+
+# Arquivos de usuário de IDEs
+*.user
+*.suo
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
